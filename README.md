@@ -18,9 +18,9 @@
 ## 기술 스택
 - Java 11 / Spring Framework / JSP
 - Oracle DB / MyBatis
-- HTML / CSS / JavaScript / jQuery
+- HTML / CSS / JavaScript / jQuery / Bootstrap
 - Kakao API / DeepL API / Spoonacular API / TheMealDB API / 공공데이터포털 오픈 API
-- Git / GitHub
+- Git / GitHub / Visual Studio Code
 
 ## 팀원 구성
 - 총 6인 참여
